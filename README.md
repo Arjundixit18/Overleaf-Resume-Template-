@@ -10,4 +10,4 @@ Arjun Overleaf.pdf
 
 [📄 View My CV](/Arjun%20Overleaf.pdf)
 
-<img src="static/sample.png" alt="sample output" />
+<img src="ArjunCV.png" alt="sample output" />
