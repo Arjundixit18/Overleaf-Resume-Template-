@@ -4,4 +4,10 @@ A professional Overleaf resume template designed for clean, structured, and ATS-
 <img src="Arjun Overleaf.pdf" />
 
 <img src="Arjun Overleaf.pdf" alt="sample output" />
-[📄 View My CV](Arjun Overleaf.pdf)
+[📄 View My CV](./Arjun%20Overleaf.pdf)
+
+Arjun Overleaf.pdf
+
+[📄 View My CV](/Arjun%20Overleaf.pdf)
+
+<img src="static/sample.png" alt="sample output" />
